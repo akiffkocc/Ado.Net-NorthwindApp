@@ -1,0 +1,12 @@
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\net6.0\KuzeyYeli.ORM.deps.json
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\net6.0\KuzeyYeli.ORM.dll
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\net6.0\KuzeyYeli.ORM.pdb
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\net6.0\KuzeyYeli.ORM.csproj.AssemblyReference.cache
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\net6.0\KuzeyYeli.ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\net6.0\KuzeyYeli.ORM.AssemblyInfoInputs.cache
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\net6.0\KuzeyYeli.ORM.AssemblyInfo.cs
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\net6.0\KuzeyYeli.ORM.csproj.CoreCompileInputs.cache
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\net6.0\KuzeyYeli.ORM.dll
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\net6.0\refint\KuzeyYeli.ORM.dll
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\net6.0\KuzeyYeli.ORM.pdb
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\net6.0\ref\KuzeyYeli.ORM.dll

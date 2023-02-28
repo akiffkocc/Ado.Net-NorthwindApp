@@ -1,0 +1,5 @@
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM.Excel\obj\Debug\net6.0\KuzeyYeli.ORM.Excel.csproj.AssemblyReference.cache
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM.Excel\obj\Debug\net6.0\KuzeyYeli.ORM.Excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM.Excel\obj\Debug\net6.0\KuzeyYeli.ORM.Excel.AssemblyInfoInputs.cache
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM.Excel\obj\Debug\net6.0\KuzeyYeli.ORM.Excel.AssemblyInfo.cs
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\KuzeyYeli.ORM.Excel\obj\Debug\net6.0\KuzeyYeli.ORM.Excel.csproj.CoreCompileInputs.cache

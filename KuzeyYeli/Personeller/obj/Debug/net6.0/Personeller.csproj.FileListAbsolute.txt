@@ -1,0 +1,5 @@
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\Personeller\obj\Debug\net6.0\Personeller.csproj.AssemblyReference.cache
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\Personeller\obj\Debug\net6.0\Personeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\Personeller\obj\Debug\net6.0\Personeller.AssemblyInfoInputs.cache
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\Personeller\obj\Debug\net6.0\Personeller.AssemblyInfo.cs
+C:\Users\akifk\source\repos\ADO.net\KuzeyYeli\Personeller\obj\Debug\net6.0\Personeller.csproj.CoreCompileInputs.cache

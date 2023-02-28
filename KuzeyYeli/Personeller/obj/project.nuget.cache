@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1L7QmIJwYpH3YFCn4z/dvmc3WpzOOw596990ZUTaECL9ZrC6xA64eGrNKBu6kyaELM59fzYASVjsdsfZK97jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akifk\\source\\repos\\ADO.net\\KuzeyYeli\\Personeller\\Personeller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akifk\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\akifk\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\akifk\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\akifk\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\akifk\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\akifk\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\akifk\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\akifk\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
